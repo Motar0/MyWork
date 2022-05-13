@@ -1,0 +1,9 @@
+Sleep,LOw
+Homework,High
+Sleep,Low
+Homework,High
+Sleeping,High
+Homework,High
+Homework,High
+Homework,High
+Homework,High
